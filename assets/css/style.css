@@ -1,0 +1,43 @@
+/* Steven Sober
+   07/20/2017
+   Homework-05a
+   style.css */
+
+body {
+
+	font-family: 'Fresca', sans-serif;
+	background-image: url(../images/crystal_background.jpg);
+	background-size: 100%;
+}
+
+.title, .start, .timer, .question {
+
+	background: #3bebf5;
+	color: #333333;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+
+.title {
+
+	font-weight: 2;
+	line-height: 100px;
+}
+
+.start {
+
+	line-height: 40px;
+}
+
+.timer {
+
+	line-height: 30px;
+}
+
+.question {
+
+
+}
+
+
